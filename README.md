@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning all of the things I am interested in.
 
-⚡ Currently my favourite languange is Python and I have intermediate Knowledge of C, C++ and Java.
+⚡ Currently my favourite language is Python and I have intermediate Knowledge of C, C++ and Java.
 
 📫 How to reach me 
       
